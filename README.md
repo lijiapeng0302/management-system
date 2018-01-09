@@ -25,9 +25,9 @@ vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
 ## 项目运行
 
 ```
-git clone https://github.com/bailicangdu/vue2-manage  
+git clone https://github.com/lijiapeng0302/management-system.git
 
-cd vue2-manage  
+cd management-system  
 
 npm install
 
